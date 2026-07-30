@@ -1,4 +1,4 @@
-Collaboration Demo Project
+Collaboration Demo Project - Feature A 
 
 This app will be used to help Maktabkhooneh decide whether I have gained enough 
 experience during this course, or not. 
